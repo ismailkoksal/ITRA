@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{83517703-9381-C6F9-6B0D-CA86590C9428}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/GenerateMap.cs">
+    <Files>
+      <File FileName="Assets/Scripts/GenerateMap.cs" Line="10" Column="42" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
